@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\udemy kurs\Parti_secim_grafik\Parti_secim_grafik\bin\Debug\Parti_secim_grafik.exe.config
+C:\Users\asus\Desktop\udemy kurs\Parti_secim_grafik\Parti_secim_grafik\bin\Debug\Parti_secim_grafik.exe
+C:\Users\asus\Desktop\udemy kurs\Parti_secim_grafik\Parti_secim_grafik\bin\Debug\Parti_secim_grafik.pdb
+C:\Users\asus\Desktop\udemy kurs\Parti_secim_grafik\Parti_secim_grafik\obj\Debug\Parti_secim_grafik.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\udemy kurs\Parti_secim_grafik\Parti_secim_grafik\obj\Debug\Parti_secim_grafik.frmoygiris.resources
+C:\Users\asus\Desktop\udemy kurs\Parti_secim_grafik\Parti_secim_grafik\obj\Debug\Parti_secim_grafik.frmgrafikler.resources
+C:\Users\asus\Desktop\udemy kurs\Parti_secim_grafik\Parti_secim_grafik\obj\Debug\Parti_secim_grafik.Properties.Resources.resources
+C:\Users\asus\Desktop\udemy kurs\Parti_secim_grafik\Parti_secim_grafik\obj\Debug\Parti_secim_grafik.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\udemy kurs\Parti_secim_grafik\Parti_secim_grafik\obj\Debug\Parti_secim_grafik.exe
+C:\Users\asus\Desktop\udemy kurs\Parti_secim_grafik\Parti_secim_grafik\obj\Debug\Parti_secim_grafik.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\Parti_secim_grafik\Parti_secim_grafik\bin\Debug\Parti_secim_grafik.exe.config
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\Parti_secim_grafik\Parti_secim_grafik\obj\Debug\Parti_secim_grafik.exe
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\Parti_secim_grafik\Parti_secim_grafik\obj\Debug\Parti_secim_grafik.pdb
